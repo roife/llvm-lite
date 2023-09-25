@@ -1,0 +1,4 @@
+TY_KEYWORD(void)
+TY_KEYWORD(float)
+TY_KEYWORD(double)
+TY_KEYWORD(ptr)

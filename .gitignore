@@ -1,0 +1,14 @@
+cmake-build-debug
+.idea
+tmp
+build
+.vscode/
+coverage
+lcov.info
+.cache/
+CMakeCache.txt
+CMakeFiles
+cmake-build-release/
+cmake_install.cmake
+compile_commands.json
+Makefile
